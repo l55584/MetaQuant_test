@@ -12,3 +12,4 @@ ecos>=2.0.0
 scs>=3.0.0
 flask>=2.0.0
 threadpoolctl>=3.0.0
+dwave-neal
