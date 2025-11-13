@@ -1,0 +1,43 @@
+2025-11-13 11:07:45,233 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8050
+ * Running on http://10.68.2.61:8050
+2025-11-13 11:07:45,233 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-13 11:07:46,271 - WARNING - Sentiment failed for whale_net_flow: <html>
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx/1.29.0</center>
+</body>
+</html>
+
+2025-11-13 11:07:59,164 - INFO - Fetching current portfolio...
+2025-11-13 11:07:59,330 - INFO - Market Regime: LOW_VOLATILITY ¡ú n=5
+2025-11-13 11:08:13,483 - INFO -    ADA-USD: 1.0 ¡Á $0.55 = $0.55
+2025-11-13 11:08:13,483 - INFO -    ICP-USD: 1.29 ¡Á $6.20 = $8.00
+2025-11-13 11:08:13,483 - INFO -    SOL-USD: 0.009 ¡Á $152.90 = $1.38
+2025-11-13 11:08:13,483 - INFO -    UNI-USD: 0.01 ¡Á $7.94 = $0.08
+2025-11-13 11:08:13,485 - INFO -    XRP-USD: 0.1 ¡Á $2.42 = $0.24
+2025-11-13 11:08:13,485 - INFO -    ZEC-USD: 0.001 ¡Á $504.37 = $0.50
+2025-11-13 11:08:13,485 - INFO -    Total Portfolio Value: $10.75
+2025-11-13 11:08:13,487 - INFO - Target weights: {'BNB-USD': np.float64(0.05), 'XRP-USD': np.float64(0.21), 'DOT-USD': np.float64(0.05), 'LINK-USD': np.float64(0.05), 'ZEC-USD': np.float64(0.05), 'ETC-USD': np.float64(0.05), 'ALGO-USD': np.float64(0.05), 'AAVE-USD': np.float64(0.05), 'EOS-USD': np.float64(0.14), 'XTZ-USD': np.float64(0.25), 'DOGE-USD': np.float64(0.05)}
+2025-11-13 11:08:13,487 - INFO - Current portfolio: {'ADA-USD': 1.0, 'ICP-USD': 1.29, 'SOL-USD': 0.009, 'UNI-USD': 0.01, 'XRP-USD': 0.1, 'ZEC-USD': 0.001}
+2025-11-13 11:08:13,487 - INFO - Cash balance: $45633.36
+2025-11-13 11:08:13,487 - INFO - Rebalance threshold: 12.0%
+2025-11-13 11:08:16,290 - INFO - Retrieved prices for 11 assets
+2025-11-13 11:08:16,293 - INFO -    USD: 100.0%
+2025-11-13 11:08:16,295 - INFO -    BNB-USD: 5.0%
+2025-11-13 11:08:16,295 - INFO -    XRP-USD: 21.0%
+2025-11-13 11:08:16,295 - INFO -    DOT-USD: 5.0%
+2025-11-13 11:08:16,295 - INFO -    LINK-USD: 5.0%
+2025-11-13 11:08:16,295 - INFO -    ZEC-USD: 5.0%
+2025-11-13 11:08:16,296 - INFO -    ETC-USD: 5.0%
+2025-11-13 11:08:16,296 - INFO -    ALGO-USD: 5.0%
+2025-11-13 11:08:16,296 - INFO -    AAVE-USD: 5.0%
+2025-11-13 11:08:16,296 - INFO -    EOS-USD: 14.0%
+2025-11-13 11:08:16,296 - INFO -    XTZ-USD: 25.0%
+2025-11-13 11:08:16,296 - INFO -    DOGE-USD: 5.0%
+2025-11-13 11:08:16,297 - INFO -    XRP-USD: 0.0% ¡ú 21.0% (BUY 3957.644175)
+2025-11-13 11:08:16,300 - INFO -    Daily trades: 0/3
+2025-11-13 11:08:16,303 - INFO - Fetching current portfolio...
+2025-11-13 11:08:16,371 - INFO - Placing BUY order for 3957.6000000000004 XRP/USD (original: 3957.6441751517405)...
